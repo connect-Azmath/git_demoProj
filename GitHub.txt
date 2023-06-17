@@ -36,4 +36,8 @@ git add . /git add filename1 file2 file3
 git commit -m "relevent message"
 git push
 
+git restore <file>..." to discard changes in working directory
+git restore --staged <file>..." to unstage
+
 Updating content
+
